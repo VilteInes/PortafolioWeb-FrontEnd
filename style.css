@@ -1,0 +1,71 @@
+header{
+    /*width: 940px;*/
+    background-color: #3BA9F0;
+    margin: 0 0 10px;
+}
+
+.cabeza{
+    width: 800px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.info-principal{
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(214, 214, 214);
+    border-radius: 30px;
+    margin: 0 0 10px;
+}
+
+.text{
+    margin: 0px 15px 10px 15px;
+}
+
+.acerca-de-mi{
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(214, 214, 214);
+    border-radius: 30px;
+    margin: 0 0 10px;
+}
+
+.educacion-experiencia{
+    border-style: double;
+    border-width: 2px;
+    border-color: rgb(214, 214, 214);
+    border-radius: 30px;
+    margin: 0 0 10px;
+}
+
+header img{
+    height: 150px;
+}
+
+nav{
+    position: absolute;
+    right: 0;
+    top: 80px;
+}
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+}
+
+.banner{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    width: 100%;
+}
+
+.perfil{
+    width: 15%;
+    border-radius: 150px;
+    margin: 10px 10px 10px 10px;
+}
